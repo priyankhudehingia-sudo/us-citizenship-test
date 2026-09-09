@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://priyankhudehingia-sudo.github.io/us-citizenship-test/sitemap.xml
